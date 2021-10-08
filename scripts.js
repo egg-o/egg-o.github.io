@@ -1,11 +1,3 @@
-(function() {
-    initLocalClocks();
-    setUpMinuteHands();
-    moveMinuteHands();
-    moveSecondHands();
-}());
-
-
 /*
   * Starts any clocks using the user's local time
   * From: cssanimation.rocks/clocks

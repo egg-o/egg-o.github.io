@@ -1,9 +1,8 @@
 (function() {
     initLocalClocks();
-    setUpMinuteHands();
-    moveMinuteHands();
     moveSecondHands();
-}());
+    setUpMinuteHands();
+})();
 
 
 /*

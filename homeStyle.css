@@ -10,3 +10,15 @@ a:link, a:visited {
   a:hover, a:active {
     background-color: rgb(155, 147, 197);
   }
+
+h2 {
+  color: white;
+  text-align: left;
+  padding: 12px;
+  font-family: 'Courier New';
+}
+
+.header {
+  background-color: rgb(2, 103, 193);
+  height: 500px;
+}

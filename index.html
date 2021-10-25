@@ -12,25 +12,25 @@
     <title>HOME</title>
 </head>
 <body>
-    <div class="header"> <h2>Hello World</h2></div>
-    <h1 class="floating-rocks front-one rellax">Welcome to the home</h1>
-    <a href="/watch/main.html">what time</a>
-    <a href="/crystal/crystal.html">crystal</a>
-
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed dapibus sapien, vitae auctor ipsum. Aenean consequat mi sed egestas ultrices. Nulla ac lobortis massa. Morbi sed elit suscipit, egestas odio at, blandit tortor. In pellentesque, felis in vulputate dapibus, tellus nulla elementum massa, sed tincidunt risus sem eu mauris. Donec nulla nulla, commodo at quam ac, ultricies aliquam nulla. Nullam at pretium tortor, vel ornare augue. Duis id justo mollis, sollicitudin enim in, egestas urna. In eleifend tortor eget commodo blandit.
-
-        Donec diam eros, suscipit eu auctor ut, fringilla id velit. Proin mauris est, condimentum eget risus ac, vehicula blandit nunc. Morbi vitae purus eleifend, viverra risus eget, feugiat urna. Vestibulum non bibendum lorem. Vestibulum molestie mauris odio, eu pellentesque quam feugiat at. Vivamus facilisis laoreet orci at tincidunt. Curabitur arcu risus, consectetur non ultricies nec, malesuada ut mi. Vestibulum neque tortor, ultricies vel neque semper, mollis auctor nunc. Aliquam diam libero, feugiat at neque ac, gravida rutrum massa. In vitae imperdiet augue. Phasellus quis quam vitae augue tempor dignissim. Nunc ut vulputate risus. Donec purus nibh, facilisis vitae dignissim nec, consequat vel lectus. Etiam faucibus diam dui.
-        
-        Aliquam porta augue ac erat accumsan, a sollicitudin lorem aliquet. Fusce bibendum lacus est, a dignissim turpis porta et. Nam mollis non lorem sit amet auctor. Suspendisse potenti. Donec venenatis placerat sapien, vitae bibendum diam accumsan non. Etiam dui elit, tempus quis libero cursus, tincidunt cursus massa. Cras at augue sed felis fermentum egestas facilisis ac dolor. Aliquam vitae leo vel nisl volutpat faucibus vestibulum sed nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque pellentesque rhoncus augue, eget rhoncus elit placerat vel.
-        
-        Aliquam et quam massa. Fusce gravida eget dolor vitae bibendum. Cras auctor dapibus velit, in imperdiet augue iaculis et. Nullam auctor euismod felis id finibus. Aenean est erat, pulvinar at placerat vel, iaculis vulputate augue. Aliquam vitae dolor vel turpis auctor faucibus. Duis aliquam est sed sem dictum, a imperdiet leo laoreet.
-        
-        Curabitur ornare mollis magna id congue. Cras gravida consequat risus quis iaculis. Mauris pulvinar metus pharetra, molestie leo id, consectetur nunc. Aenean vulputate molestie sapien, quis dictum magna tempor ac. Donec mi magna, eleifend vel tincidunt nec, tincidunt vitae ipsum. Sed nisi nisl, tincidunt a est nec, condimentum cursus velit. Nullam tincidunt sem in rutrum mollis. Curabitur nec lacinia leo, nec pulvinar sem. Integer et volutpat lacus, at venenatis nisl. Vestibulum aliquet lacinia finibus. Nullam dui dolor, elementum eget tincidunt vitae, placerat quis est. Praesent ultrices, tortor eu tempus molestie, mi neque tincidunt est, ut fringilla neque lacus auctor risus. Curabitur fringilla ipsum at iaculis cursus. Praesent in dui nunc. Aenean efficitur, eros pulvinar luctus dictum, odio quam mattis risus, nec porta justo nunc et diam. Vestibulum id ante sed metus congue tempus.</p>
+    <div class="header">
+        <div class="dropdown">
+            <button class="dropbtn">Main</button>
+            <div class="dropdown-content">
+                <a href="/watch/main.html">watch</a>
+                <a href="/crystal/crystal.html">crystal</a>
+            </div>
+        </div>
+        <span class="title">Welcome to the Home</span>
+    </div>
 
 
-    <script src="./javascripts/rellax.min.js"></script>
-    <script>
-    var rellax = new Rellax('.rellax');
-    </script>
+    <div class="status">
+        <p>
+            EDURoamConnection: 
+            <span class="bigstatus"> DISCONNECTED </span>
+        </p>
+    </div>
+
+
 </body>
 </html>

@@ -18,6 +18,8 @@ class Player {
     var to = document.getElementById(oline).textContent;
     to.charAt(npos) = symbol;
     }
+
+    //this is a push test
 }
 
 generate();

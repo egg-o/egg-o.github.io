@@ -50,6 +50,7 @@ img             {width: 900px; max-width: 900px; margin-bottom: 20px;}
 .subtitle       {display: inline-block; margin: 20px 0; color: #FFF;}
 .subtitle2      {display: inline-block; color: #222; background: #FFF;}
 .subtitle2:hover{color: #222; background: #FFF;}
+.subtitle3      {display: inline-block; font-size: 40px; color: #222; background: #FFF;}
 .code           {max-width: 900px; background: #1f1f1f; padding: 20px; margin:10px 0 30px 0; display:inline-block;}
 .shop           {max-width: 900px; margin: -10px 0 40px 0;}
 .codesmall      {background: #1f1f1f; display:inline-block;}

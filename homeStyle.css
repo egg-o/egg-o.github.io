@@ -26,6 +26,7 @@ a:hover         {color: #fff; text-decoration: underline;}
 p               {padding: 0; margin: 10px 0 30px 0;}
 img             {width: 900px; max-width: 900px; margin-bottom: 20px;}
 #page           {max-width: 900px; margin: auto; padding: 0 20px;}
+#date           {max-width: 500ps; margin: auto; padding: 0 20px; font-size: 10px; color:#c8c8c8;}
 #content        {max-width:100%; margin: auto;}
 #footer 		{max-width: 900px; margin:auto; margin-top: 55px;}
 .header			{height: 66px; width: 100%; margin: auto; margin-bottom: 50px; border-bottom: dotted 1px #444;}

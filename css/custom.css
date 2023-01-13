@@ -258,3 +258,9 @@ display: none; }
     border: 1px solid #bbb;
     cursor: pointer;
     box-sizing: border-box; }
+
+.column01 {
+    float: left;
+    width: 33.33%;
+    padding: 0;
+}

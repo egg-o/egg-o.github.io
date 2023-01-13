@@ -1,0 +1,27 @@
+Pages:
+
+↪ : new page
+► : subsection
+⦿ : button/link
+
+Home 
+    ↪ Rigging 
+        ► Blizzard 
+        ► Orc 
+        ► Dam (tbc process) 
+        ⦿ Return to Home
+    ↪ Maya Tools 
+        ► Documentation for new cube UI 
+        ► Multi file delete
+        ► Zip of shelf 
+        ⦿ Return to Home
+    ↪ Personal
+        ► Art 
+        ► Graphic Design is my Prision
+            Chicken Nugget 
+        ⦿ Return to Home
+    ⦿ Resume 
+    ⦿ Twitter 
+    ⦿ LinkedIn
+    ⦿ Github
+    ⦿ Email

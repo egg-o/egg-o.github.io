@@ -88,6 +88,9 @@ display: none; }
 @media (min-width: 550px) {
 .header {
     margin-top: 6rem; }
+.break {
+    margin-top: 3rem;
+}
 .value-props {
     margin-top: 9rem;
     margin-bottom: 7rem; }

@@ -4,6 +4,11 @@ Pages:
 ► : subsection
 ⦿ : button/link
 
+Todo:
+- padding btwn image and icons
+- fix sizing of images
+- write rigging page
+
 Home 
     ↪ Rigging 
         ► Blizzard 
